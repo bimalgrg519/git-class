@@ -1,0 +1,5 @@
+1. Initialize Git in your project folder
+    git init
+
+2. Add files to staging
+    git add .
