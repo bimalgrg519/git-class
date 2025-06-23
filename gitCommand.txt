@@ -6,3 +6,10 @@
 
 3. Commit the files
     git commit -m "Initial Commit"    
+
+Check current status of files
+    git status
+
+Push to a specific branch
+    git push origin branch-name    
+
