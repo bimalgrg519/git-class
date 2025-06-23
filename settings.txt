@@ -1,0 +1,8 @@
+Set your name and email
+
+git config --global user.name "Your Name"
+git config --global user.email "your@gmail.com"
+
+Check config
+    git config user.name
+    git config user.email

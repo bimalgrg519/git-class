@@ -3,3 +3,6 @@
 
 2. Add files to staging
     git add .
+
+3. Commit the files
+    git commit -m "Initial Commit"    
